@@ -1,0 +1,8 @@
+body {
+/*  background-color: white; */
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+.heroimage {
+  background-image: url("./resources/Images/the-flatiron-building.png");
+}
